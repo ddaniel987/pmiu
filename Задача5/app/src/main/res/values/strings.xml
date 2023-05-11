@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">pmiu_kartichki</string>
+    <string-array name="color_names">
+        <item>Червен</item>
+        <item>Зелен</item>
+        <item>Син</item>
+        <item>Жълт</item>
+        <item>Лилав</item>
+        <item>Бял</item>
+    </string-array>
+    <string name="select_color">Избери цвят</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
